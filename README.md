@@ -232,7 +232,7 @@ This section guides you to deploy your portfolio on GitHub pages.
 
 #### Deploying to Netlify
 
-You could also host directly with Netlify by linking your own repository.
+You could also host directly with Netlify by linking your own repository.https://github.com/DaErudite/DaErudite.github.io/
 
 [![Deploy To Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/saadpasta/developerFolio)
 
